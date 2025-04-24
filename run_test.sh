@@ -10,8 +10,8 @@ FILE_NAME="W0${1}_P${2}_${3}"
 
 SRC=/Users/gyuyeonjo/CLionProjects/dataStructures/main.cpp
 EXE=main
-INPUT=/Users/gyuyeonjo/Desktop/data-structure/ans/$FILE_NAME.in
-EXPECTED=/Users/gyuyeonjo/Desktop/data-structure/ans/$FILE_NAME.ans
+INPUT=/Users/(whoami)/Desktop/data-structure/ans/$FILE_NAME.in
+EXPECTED=/Users/(whoami)/Desktop/data-structure/ans/$FILE_NAME.ans
 OUTPUT=output.txt
 
 
