@@ -8,7 +8,7 @@ fi
 
 FILE_NAME="W0${1}_P${2}_${3}"
 
-SRC=/Users/gyuyeonjo/CLionProjects/dataStructures/main.cpp
+SRC=/Users/(whoami)/CLionProjects/dataStructures/main.cpp
 EXE=main
 INPUT=/Users/(whoami)/Desktop/data-structure/ans/$FILE_NAME.in
 EXPECTED=/Users/(whoami)/Desktop/data-structure/ans/$FILE_NAME.ans
